@@ -246,8 +246,6 @@ Batch mode also produces `batch_summary.csv` with one row per claim, ready for r
 | claim_001_fast_track.txt         | Complete, low damage       | Fast-track         |
 | claim_002_manual_review.txt      | Missing name, VIN, dates   | Manual Review      |
 | claim_003_specialist_queue.txt   | Bodily injury claim        | Specialist Queue   |
-| claim_004_investigation_flag.txt | Fraud/staged indicators    | Investigation Flag |
-| claim_005_standard_review.txt    | Complete, high damage      | Standard Review    |
 
 ---
 
