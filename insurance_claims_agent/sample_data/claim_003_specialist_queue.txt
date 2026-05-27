@@ -1,0 +1,87 @@
+FIRST NOTICE OF LOSS - BODILY INJURY & VEHICLE DAMAGE
+======================================================
+Form: ACORD 2 (2016/10) - Automobile Loss Notice
+Date Submitted: 07/28/2024
+
+AGENCY INFORMATION
+------------------
+Agency Name:         Premier Claims Services LLC
+Contact Name:        Diana Reyes
+Phone (Business):    (404) 555-0911
+Email:               d.reyes@premierclaims.com
+Agency Code:         PCS-0044
+Agency Customer ID:  PCS-ATL-88203
+
+POLICY INFORMATION
+------------------
+Policy Number:       PCS-AUTO-20240030
+Policyholder Name:   Carlos Eduardo Mendez
+Effective Dates:     04/01/2024 to 04/01/2025
+Date of Birth:       September 3, 1985
+FEIN:                N/A
+Carrier:             Guardian Auto Insurance
+NAIC Code:           35408
+Insured's Mailing Address:
+    87 Peachtree Road, Atlanta, GA 30309
+
+INCIDENT INFORMATION
+--------------------
+Incident Date:       07/25/2024
+Incident Time:       08:15 AM
+Incident Location:   Intersection of Peachtree St NE and 14th Street NW, Atlanta, GA 30309
+City, State, ZIP:    Atlanta, GA 30309
+Country:             USA
+
+Description of Accident:
+    The insured was proceeding through a green light at the intersection
+    of Peachtree Street NE and 14th Street when a pickup truck ran the
+    opposing red light at high speed and struck the insured vehicle on
+    the driver's side door. The insured sustained bodily injury to the
+    neck and left shoulder. Emergency medical services were called and
+    the insured was transported to Piedmont Atlanta Hospital. The other
+    driver admitted fault at the scene. Georgia State Patrol attended
+    and filed an official incident report.
+
+INVOLVED PARTIES
+----------------
+Claimant Name:       Carlos Mendez
+Third Parties:       Derek C. Phillips (at-fault driver, 2018 Ford F-150)
+                     Insurer: State Auto, Policy #STA-883920
+Contact Details:     Phone: (404) 555-0234
+                     Email: carlos.mendez@gmail.com
+
+ASSET DETAILS
+-------------
+Asset Type:          Sedan - Toyota Camry
+Year:                2020
+Make:                Toyota
+Model:               Camry LE
+Body Type:           Sedan
+V.I.N.:              4T1B11HK0LU887564
+Plate Number:        GA-RKT-2291
+State:               GA
+Purpose of Use:      Personal commute
+Driver:              Carlos Mendez (same as insured)
+Owner:               Carlos Mendez (same as insured)
+
+DAMAGE INFORMATION
+------------------
+Describe Damage:     Driver-side door completely caved in. B-pillar bent.
+                     Airbag deployed on driver side. Side curtain airbag
+                     also deployed. Vehicle deemed likely total loss.
+Estimated Damage:    $19,800
+Where Can Vehicle Be Seen: Reliable Towing Lot, 550 Marietta Blvd NW, Atlanta, GA
+When Can Vehicle Be Seen:  Any business day
+
+CLAIM INFORMATION
+-----------------
+Claim Type:          Bodily Injury / Liability
+Initial Estimate:    $19,800 (vehicle damage only; medical costs TBD)
+Attachments:         Georgia State Patrol report #GSP-ATL-20240725-112,
+                     Piedmont Atlanta Hospital admission record,
+                     6 photographs of accident scene and vehicle damage
+
+POLICE REPORT
+-------------
+Police or Fire Dept Contacted: Yes
+Report Number:       GSP-ATL-20240725-112

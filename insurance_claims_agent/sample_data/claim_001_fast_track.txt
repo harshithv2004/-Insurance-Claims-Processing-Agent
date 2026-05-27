@@ -1,0 +1,92 @@
+FIRST NOTICE OF LOSS (FNOL) - AUTOMOBILE CLAIM
+================================================
+Form Reference: ACORD 2 (2016/10) - Automobile Loss Notice
+
+AGENCY INFORMATION
+------------------
+Agency Name:         Greenfield Insurance Agency
+Contact Name:        Karen Powell
+Phone (Business):    (512) 555-0400
+Agency Code:         GIA-0071
+Agency Customer ID:  GIA-CUST-20240312
+
+POLICY INFORMATION
+------------------
+Policy Number:       POL-2024-004821
+Policyholder Name:   Sarah Elizabeth Mitchell
+Effective Dates:     01/15/2024 to 01/15/2025
+Date of Birth:       June 22, 1990
+Carrier:             SafeGuard Insurance Co.
+NAIC Code:           11204
+Insured's Mailing Address:
+    4812 Elmwood Drive, Austin, TX 78701
+
+INCIDENT INFORMATION
+--------------------
+Date of Loss:        03/12/2024
+Incident Time:       02:30 PM
+Location of Loss:    Corner of 5th Avenue and Oak Street, Austin, TX 78701
+City, State, ZIP:    Austin, TX 78701
+Country:             USA
+
+Description of Accident:
+    The insured vehicle was stationary at a red light on 5th Avenue when
+    it was struck from behind by a blue Honda Civic. The impact caused
+    moderate damage to the rear bumper and trunk lid. No airbags were
+    deployed. Both drivers pulled over safely, exchanged insurance
+    information, and a police report was filed at the scene. No injuries
+    were reported by either party.
+
+INVOLVED PARTIES
+----------------
+Claimant Name:       Sarah Mitchell
+Third Parties:       James R. Holloway (driver of the other vehicle)
+                     Vehicle: 2019 Honda Civic, Plate: TX-GHR-2210
+                     Insurer: AllState, Policy #ALL-99201-TX
+Contact Details:     Phone: (512) 555-0193
+                     Email: sarah.mitchell@email.com
+
+ASSET DETAILS
+-------------
+Asset Type:          Sedan - 2021 Honda Accord EX
+Year:                2021
+Make:                Honda
+Model:               Accord EX
+Body Type:           Sedan
+V.I.N.:              1HGCV1F30MA123456
+Plate Number:        TX-JKL4892
+State:               TX
+Purpose of Use:      Personal
+Owner's Name:        Sarah Mitchell (same as insured)
+Driver:              Sarah Mitchell (same as owner)
+
+DAMAGE INFORMATION
+------------------
+Describe Damage:     Rear bumper cracked and dented. Trunk lid misaligned.
+                     Tail lights intact. No structural frame damage observed.
+Estimated Damage:    $8,200
+Where Can Vehicle Be Seen: AutoFix Collision Center, 220 Industrial Blvd, Austin TX 78702
+When Can Vehicle Be Seen:  Monday to Friday, 8am - 5pm
+
+CLAIM INFORMATION
+-----------------
+Claim Type:          Collision
+Initial Estimate:    $8,200
+Attachments:         Police report #APD-20240312-0047, 4 photographs of rear damage,
+                     Repair estimate from AutoFix Collision Center
+
+POLICE REPORT
+-------------
+Police or Fire Dept Contacted: Yes
+Report Number:       APD-20240312-0047
+
+CHILD SEAT INFORMATION
+----------------------
+1. Was a standard child passenger restraint system installed? N
+2. Was the child seat in use at time of accident?            N
+3. Did the child seat sustain a loss?                        N
+
+OTHER INSURANCE ON VEHICLE
+--------------------------
+Carrier:             SafeGuard Insurance Co.
+Policy Number:       POL-2024-004821

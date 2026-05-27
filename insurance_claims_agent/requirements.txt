@@ -1,0 +1,26 @@
+# ============================================================
+# requirements.txt
+# Autonomous Insurance Claims Processing Agent
+# ============================================================
+#
+# Install all dependencies with:
+#   pip install -r requirements.txt
+#
+# Python version: 3.10+ recommended (uses type hints like str | None)
+# ============================================================
+
+# PDF text extraction — handles structured/form PDFs reliably
+pdfplumber==0.11.0
+
+# Data analysis and CSV export
+pandas==2.2.2
+
+# Standard library modules used (built-in, no install required):
+#   re       → regex-based field extraction
+#   os       → file system operations
+#   json     → output serialisation
+#   logging  → application logging
+#   argparse → command-line interface
+#   sys      → system exit codes
+#   dataclasses → ValidationIssue data class
+#   datetime → date parsing and comparison
